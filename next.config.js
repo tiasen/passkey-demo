@@ -8,6 +8,10 @@ const nextConfig = {
                     {
                         key: "Permissions-Policy",
                         "value": "publickey-credentials-get=*"
+                    },
+                     {
+                        key: "Permissions-Policy",
+                        "value": "publickey-credentials-create=*"
                     }
                 ]
             }
